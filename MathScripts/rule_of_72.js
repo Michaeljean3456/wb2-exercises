@@ -1,3 +1,5 @@
+"use strict"
+
 var savaccount = 8000;
 var intrate = 5;
 var numofyears = 72 * intrate;

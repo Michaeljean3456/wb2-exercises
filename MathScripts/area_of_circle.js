@@ -1,3 +1,5 @@
+"use strict"
+
 var pi = 3.141592;
 var radius = 8*8;
 

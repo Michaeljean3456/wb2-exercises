@@ -1,3 +1,5 @@
+"use strict"
+
 var far = 83;
 var cel = (far - 32) * 5/9;
 

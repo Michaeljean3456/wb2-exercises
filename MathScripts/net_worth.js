@@ -1,3 +1,5 @@
+"use strict"
+
 var assets = 14320.25;
 var debts = -6235.50;
 var safemoney = 58655.40;

@@ -1,3 +1,5 @@
+"use strict"
+
 var bill = 50;
 var per = 0.07;
 var tip = bill * per;

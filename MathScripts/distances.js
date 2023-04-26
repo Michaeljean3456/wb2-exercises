@@ -1,3 +1,5 @@
+"use strict"
+
 var x1 = 5;
 var y1 = 4;
 var x2 = 3;

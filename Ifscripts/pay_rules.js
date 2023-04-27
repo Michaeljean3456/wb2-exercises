@@ -1,6 +1,7 @@
 "use strict"
+
 let payrate = 17.50;
-let hourswork = 40;
+let hourswork = 70;
 
 if (hourswork > 40){
     payrate=payrate * 1.5 
@@ -12,5 +13,11 @@ let grosspay = regularpay + overtimepay;
 
 
 console.log("You worked 50 hours this week so your check came out to $" + grosspay)
+
+
+
+
+
+
 
 
